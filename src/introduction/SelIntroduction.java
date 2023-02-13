@@ -7,7 +7,7 @@ public class SelIntroduction {
 
 	public static void main(String[] args) {
 		WebDriver driver = new FirefoxDriver();
-		driver.get("https://www.rahulshettyacademy.com");
+		driver.get("https://www.google.com");
 		driver.quit();
 	}
 }
